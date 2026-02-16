@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-practice",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Vanshi2221/nodejs-practice#readme",
+  "bugs": {
+    "url": "https://github.com/Vanshi2221/nodejs-practice/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vanshi2221/nodejs-practice.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "mongoose": "^9.2.1"
+  }
+}
